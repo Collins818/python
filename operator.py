@@ -1,0 +1,6 @@
+math= int (input("Maths: "))
+english= int(input("English:"))
+chemistry = int( input("Chemistry:"))
+biology=int( input('Biology'))
+print(math + english + chemistry + biology)
+print((math + english + chemistry + biology)/4)
